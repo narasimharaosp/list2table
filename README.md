@@ -1,17 +1,16 @@
-Title:- Convert list to table
+Title:- Convert list to table<br>
 Purpose:- Easing the wiki content import during rapid website development.<br>
 Description:- This code helps you convert the string(with tab space and newline) to HTML table.<br>
-
-Example:-
---------------------------------------
-
-
+<br>
+Example:-<br>
+--------------------------------------<br>
+<br>
 Rule:-
 --------------------------------------
 th1 content - tab space - th2 content - new line(first row thead)<br>
 td1 content - tab space - td2 content - new line(second row onwards tbody)
 <br><br>
-Input:-
+Input:-<br>
 --------------------------------------<br>
 Topic	Description<br>
 Name	Vishnuvardhan(Saahasa Simha)<br>
@@ -22,7 +21,7 @@ Occupation	Actor<br>
 Years active	1972–2009<br>
 Spouse(s)	Bharathi Rao (1975–2009)<br>
 <br>
-Output:-
+Output:-<br>
 ---------------------------------------<br>
 <table  class='table'>
    <thead>
@@ -59,6 +58,6 @@ Output:-
    </tbody>
 </table>
 
-Thanks cheers<br>
+Thanks<br>
 Happy coding!!!!!!<br>
 @narasimharaosp
