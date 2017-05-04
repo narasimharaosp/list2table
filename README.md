@@ -1,26 +1,29 @@
 Title:- Convert list to table
-Purpose:- Easing the wiki content import during rapid website development.
-Description:- This code helps you convert the string(with tab space and newline) to HTML table.
+Purpose:- Easing the wiki content import during rapid website development.<br>
+Description:- This code helps you convert the string(with tab space and newline) to HTML table.<br>
 
 Example:-
+--------------------------------------
+
 
 Rule:-
-th1 content - tab space - th2 content - new line(first row thead)
-td1 content - tab space - td2 content - new line(second row onwards tbody)
-
-Input:-
 --------------------------------------
-Topic	Description
-Name	Vishnuvardhan(Saahasa Simha)
-Born	Sampath Kumar 18 September 1950 Mysore, Mysore State, India
-Died	30 December 2009 (aged 59) Mysore, Karnataka, India
-Nationality	Indian
-Occupation	Actor
-Years active	1972–2009
-Spouse(s)	Bharathi Rao (1975–2009)
-
+th1 content - tab space - th2 content - new line(first row thead)<br>
+td1 content - tab space - td2 content - new line(second row onwards tbody)
+<br><br>
+Input:-
+--------------------------------------<br>
+Topic	Description<br>
+Name	Vishnuvardhan(Saahasa Simha)<br>
+Born	Sampath Kumar 18 September 1950 Mysore, Mysore State, India<br>
+Died	30 December 2009 (aged 59) Mysore, Karnataka, India<br>
+Nationality	Indian<br>
+Occupation	Actor<br>
+Years active	1972–2009<br>
+Spouse(s)	Bharathi Rao (1975–2009)<br>
+<br>
 Output:-
----------------------------------------
+---------------------------------------<br>
 <table  class='table'>
    <thead>
       <tr>
@@ -56,6 +59,6 @@ Output:-
    </tbody>
 </table>
 
-Thanks cheers
-Happy coding!!!!!!
+Thanks cheers<br>
+Happy coding!!!!!!<br>
 @narasimharaosp
