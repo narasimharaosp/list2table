@@ -1,11 +1,12 @@
-Title:- Convert list to table<br>
-Purpose:- Easing the wiki content import during rapid website development.<br>
-Description:- This code helps you convert the string(with tab space and newline) to HTML table.<br>
-<br>
-Example:-<br>
---------------------------------------<br>
-<br>
-Rule:-
+# Title:- Convert list to table<br>
+
+Purpose:- Easing the wiki content import during rapid website development.
+Description:- This code helps you convert the string(with tab space and newline) to HTML table.
+
+# Example:-
+--------------------------------------
+
+# Rule:-
 --------------------------------------
 th1 content - tab space - th2 content - new line(first row thead)<br>
 td1 content - tab space - td2 content - new line(second row onwards tbody)
@@ -31,6 +32,10 @@ Output:-<br>
    <thead>
       <tr>
    <tbody>
+      <tr>
+         <td>Name</td>
+         <td>Vishnuvardhan(Saahasa Simha)</td>
+      </tr>
       <tr>
          <td>Born</td>
          <td>Sampath Kumar 18 September 1950 Mysore, Mysore State, India</td>
